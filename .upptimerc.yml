@@ -17,7 +17,7 @@ status-website:
   introMessage: Giúp bạn theo dõi và cập nhật nhanh chóng tình trạng, độ ổn định cũng như lịch bảo trì các sản phẩm của Selfomy. 
   navbar:
     - title: Trạng thái
-      href: /
+      href: /uptime
     - title: Về trang chủ
       href: https://selfomy.com
 
