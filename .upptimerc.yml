@@ -11,7 +11,7 @@ status-website:
   # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
   #cname: demo.upptime.js.org
   baseUrl: /uptime
-  logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
+  logoUrl: https://selfomy.com/wp-content/uploads/2020/09/rsz_logo-0-transparent.png
   name: Selfomy
   introTitle: "Trạng thái hoạt động của các sản phẩm của Selfomy"
   introMessage: Giúp bạn theo dõi và cập nhật nhanh chóng tình trạng, độ ổn định cũng như lịch bảo trì các sản phẩm của Selfomy. 
@@ -20,6 +20,33 @@ status-website:
       href: /uptime
     - title: Về trang chủ
       href: https://selfomy.com
-
+i18n:
+  activeIncidents: Sự cố đang xảy ra
+  allSystemsOperational: Tất cả hệ thống hoạt động bình thường
+  incidentReport: "Báo cáo sự cố #$NUMBER →"
+  activeIncidentSummary: Đã mở vào $DATE với $POSTS bài đăng
+  incidentTitle: Chi tiết sự cố $NUMBER
+  incidentDetails: Chi tiết sự cố
+  incidentFixed: Đã sửa
+  incidentOngoing: Đang diễn ra
+  incidentOpenedAt: Mở vào
+  incidentClosedAt: Đóng vào
+  incidentViewOnGitHub: Xem và Đăng ký trên GitHub
+  incidentCommentSummary: Đã đăng vào $DATE bởi $AUTHOR
+  incidentBack: ← Quay lại tất cả sự cố
+  pastIncidents: Sự cố trước đây
+  pastIncidentsResolved: Đã giải quyết trong $MINUTES phút với $POSTS bài đăng
+  liveStatus: Trạng thái trực tiếp
+  overallUptime: "Thời gian hoạt động tổng cộng: $UPTIME"
+  overallUptimeTitle: Thời gian hoạt động tổng cộng
+  averageResponseTime: "Thời gian phản hồi trung bình: $TIMEms"
+  averageResponseTimeTitle: Thời gian phản hồi trung bình
+  sevelDayResponseTime: Thời gian phản hồi 7 ngày
+  responseTimeMs: Thời gian phản hồi (ms)
+  up: Hoạt động
+  down: Không hoạt động
+  degraded: Giảm chất lượng
+  ms: ms
+  loading: Đang tải
 # Upptime also supports notifications, assigning issues, and more
 # See https://upptime.js.org/docs/configuration
