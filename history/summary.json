@@ -4,17 +4,19 @@
     "url": "https://one.selfomy.com",
     "icon": "https://icons.duckduckgo.com/ip3/one.selfomy.com.ico",
     "slug": "selfomy-one",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1299,
-    "timeDay": 1168,
-    "timeWeek": 1299,
-    "timeMonth": 1299,
-    "timeYear": 1299,
-    "dailyMinutesDown": {}
+    "time": 1226,
+    "timeDay": 940,
+    "timeWeek": 1226,
+    "timeMonth": 1226,
+    "timeYear": 1226,
+    "dailyMinutesDown": {
+      "2024-03-30": 0
+    }
   }
 ]
