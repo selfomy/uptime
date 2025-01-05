@@ -57,7 +57,7 @@
     "url": "https://selfomyone.hoc.sh/learn",
     "icon": "https://icons.duckduckgo.com/ip3/selfomyone.hoc.sh.ico",
     "slug": "selfomy-one-lms",
-    "status": "up",
+    "status": "down",
     "uptime": "99.62%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
@@ -69,6 +69,7 @@
     "timeMonth": 941,
     "timeYear": 861,
     "dailyMinutesDown": {
+      "2025-01-05": 0,
       "2024-10-10": 14,
       "2024-10-08": 16,
       "2024-09-24": 386,
